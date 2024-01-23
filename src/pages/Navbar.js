@@ -4,7 +4,7 @@ import { useState } from "react";
 import logo from '../utils/images/RupeeyaLogo.png'
 
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
 
   const toggleMenu = () => {
     setIsOpen(!isOpen);
