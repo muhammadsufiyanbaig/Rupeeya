@@ -10,6 +10,7 @@ Rupeeya is a simple and efficient expense tracker app designed to help you manag
 - **Insightful Reports:** View insightful reports and charts that provide a clear overview of your spending patterns.
 - **User-friendly Interface:** Intuitive and easy-to-use interface for a seamless user experience.
 - **Secure and Private:** Your financial data is kept secure and private, ensuring confidentiality because all transactions save in your localstorage.
+- **Download in Excel file:** You can download your all transactional data in the excel file.
 
 ## Getting Started
 
